@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1343,
+    "Title": "Mitsubishi",
+    "Model": "Lancer EVO IX",
+    "Year": 2008,
+    "Color": "Yellow",
+    "ImageUrl": "https://a.d-cd.net/4bb19f9s-960.jpg"
+  },
+  {
+    "Id": 2323,
+    "Title": "Honda",
+    "Model": "Accord",
+    "Year": 2011,
+    "Color": "Black",
+    "ImageUrl": "https://a.d-cd.net/2QAAAgI_5-A-960.jpg"
+  },
+  {
+    "Id": 54554,
+    "Title": "Lexus",
+    "Model": "IS 250",
+    "Year": 2013,
+    "Color": "Gray",
+    "ImageUrl": "https://s.auto.drom.ru/i24207/c/photos/fullsize/lexus/is250/lexus_is250_692060.jpg"
+  },
+  {
+    "Id": 76677,
+    "Title": "Nissan",
+    "Model": "R34",
+    "Year": 2003,
+    "Color": "Blue",
+    "ImageUrl": "https://s.auto.drom.ru/i24248/pubs/4483/79955/3563764.jpg"
+  },
+  {
+    "Id": 234234,
+    "Title": "Toyota",
+    "Model": "GT86",
+    "Year": 2014,
+    "Color": "Blue",
+    "ImageUrl": "https://www.ft86club.com/forums/attachment.php?attachmentid=2871&d=1322426350"
+  },
+  {
+    "Id": 56534,
+    "Title": "Lexus",
+    "Model": "NX 200t",
+    "Year": 2017,
+    "Color": "White",
+    "ImageUrl": "https://s.auto.drom.ru/img5/catalog/photos/fullsize/lexus/nx200t/lexus_nx200t_207073.jpg"
+  },
+  {
+    "Id": 12233,
+    "Title": "Honda",
+    "Model": "CR-V",
+    "Year": 2018,
+    "Color": "Black",
+    "ImageUrl": "https://cdn.riastatic.com/photosnew/auto/photo/Honda_CR-V__342844623f.jpg"
+  },
+  {
+    "Id": 665534,
+    "Title": "Volkswagen",
+    "Model": "Golf GTI",
+    "Year": 2018,
+    "Color": "White",
+    "ImageUrl": "https://besthqwallpapers.com/Uploads/26-5-2018/53894/thumb2-volkswagen-golf-gti-2018-tcr-white-hatchback-white-wheels.jpg"
+  }
+]

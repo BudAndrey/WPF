@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 0,
+    "Title": "Kia",
+    "Model": "Sorento",
+    "Year": 2015,
+    "Color": "Black",
+    "ImageUrl": "https://auto24.org/media/autos/88/86/8578886/kia-sorento-2015-kia-8578886.jpg"
+  },
+  {
+    "Id": 0,
+    "Title": "Mitsubishi",
+    "Model": "Outlander XL",
+    "Year": 2009,
+    "Color": "Black",
+    "ImageUrl": "https://auto24.org/media/autos/67/51/8716751/8716751.jpg"
+  },
+  {
+    "Id": 0,
+    "Title": "BMW",
+    "Model": "X5",
+    "Year": 2010,
+    "Color": "Blue",
+    "ImageUrl": "https://a.d-cd.net/2EAAAgEN3-A-960.jpg"
+  }
+]
